@@ -1,0 +1,37 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    position: relative;
+    color: #1c1c1c;
+}
+
+.modal-header {
+    background-color: #eee;
+}
+
+.bg-hero {
+    background-color: #eee;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+    color: #1abc9c;
+    font-weight: 500;
+}
+
+.navbar-brand {
+    font-size: 2rem;
+}
+
+.landing-content p {
+    font-size: 1.5rem;
+    line-height: 1;
+    letter-spacing: 0.25rem;
+}
