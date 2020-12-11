@@ -77,3 +77,39 @@ body {
     background-image: url(../images/rough_diagonal.png);
     background-attachment: fixed;
 }
+
+.btn {
+    background-color: #16a085;
+    color: #fff;
+    border: none;
+}
+
+.btn:hover {
+    background-color: #1abc9c;
+}
+
+.footer {
+    background-color: #444;
+}
+
+.footer-link {
+    color: #1abc9c;
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    text-decoration: none;
+    color: #20dbb6;
+}
+
+.close{
+    font-family: 
+    'Segoe UI', 
+    Roboto, 
+    Oxygen, 
+    Ubuntu, 
+    Cantarell, 
+    'Open Sans', 
+    'Helvetica Neue', 
+    sans-serif;
+}
